@@ -7,5 +7,4 @@ Coding train video tutorial by Daniel Shiffman - [Video](https://youtu.be/l__fEY
 Some screenshots of the output from the tutorials
 
 ![](Images/RandomWalker_output_01.png)\
-![](Images/RandomWalker_output_02.png)\
 ![](Images/RandomWalker_output_03.png)

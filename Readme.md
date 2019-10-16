@@ -1,3 +1,5 @@
+For links to other cables related repositorys please check the wiki.
+
 Creating your own ops inside of cables isn't that hard. Following a few of these videos will teach you all the basic skills you need to develop your own ops in no time.
 You can the tutorial videos by clicking on the links below.
 

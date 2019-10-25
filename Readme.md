@@ -8,7 +8,7 @@ You can the tutorial videos by clicking on the links below.
 03 - [Floats/math ops](https://youtu.be/cHD0H_xNi1Q)\
 04 - [Random walker op](https://youtu.be/tib3dAo6ji8) - check the folder for images of the output\
 05 - [Array ops](https://youtu.be/cpjlm9tjgGo)\
-10 - [Custom shader ops](https://youtu.be/Zfhn8xSM0SE)
+10 - [Custom shader ops](https://youtu.be/Zfhn8xSM0SE)\
 11 - tba.
 
 

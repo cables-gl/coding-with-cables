@@ -1,0 +1,128 @@
+id,station_name,station_address,district_id,district,lat,lon
+54,Miejskie Przedszkole nr 45,"ul. Sokolska 25",1,Śródmieście,50.26323,19.019848
+98,Szkoła Podstawowa nr 7 Specjalna,"ul. Szkolna 5",1,Śródmieście,50.259415,19.026228
+67,X Liceum Ogólnokształcące,"ul. Miarki 6",1,Śródmieście,50.259086,19.039870
+57,Szkoła Podstawowa nr 15,"ul. Adamskiego 24",1,Śródmieście,50.252388,19.00201
+30,II Liceum Ogólnokształcące,"ul. Głowackiego 6",1,Śródmieście,50.251793,19.009983
+29,Miejskie Przedszkole nr 3,"ul. Barbary 25",1,Śródmieście,50.248585,19.007534
+946,Oddział Żłobka Miejskiego ul. Uniwersytecka 15,"ul. Uniwersytecka 15",1,Śródmieście,50.26245,19.025373
+90,Szkoła Podstawowa Nr 1,"ul. Jagiellońska 18",1,Śródmieście,50.254494,19.022009
+76,Szkoła Podstawowa nr 37,"ul. Lompy 17",1,Śródmieście,50.25028,19.02335
+936,VIII Liceum Ogólnokształcące,"ul. 3 Maja 42",1,Śródmieście,50.259605,19.01516
+14,Przychodnia nr 3,"ul. PCK 1",1,Śródmieście,50.25252,19.015036
+138,Śląski Teatr Lalki i Aktora ATENEUM,"ul. Andrzeja 21A",1,Śródmieście,50.256981,19.015341
+944,Oddział Żłobka Miejskiego ul.Ligonia 43,"ul. Ligonia 43",1,Śródmieście,50.2527,19.025331
+931,Dom Dziecka Stanica,"ul. Plebiscytowa 46",1,Śródmieście,50.250732,19.02006
+934,Zespół Szkół Ekonomicznych,"ul. Raciborska 3",1,Śródmieście,50.25494,19.008867
+942,Przychodnia nr 1,"ul. Mickiewicza 9",1,Śródmieście,50.26122000000001,19.019688000000002
+124,Miejskie Przedszkole Nr 35,"ul. Rybnicka 1",1,Śródmieście,50.251457,19.025074
+102,Miejskie Przedszkole Nr 36,"ul. Zacisze 2",1,Śródmieście,50.255352,19.029016
+83,Miejskie Przedszkole Nr 40,"ul. Panewnicka 73",6,Ligota – Panewniki,50.22761,18.95915
+99,Miejskie Przedszkole Nr 89,"ul. Zadole 26A",6,Ligota – Panewniki,50.219204,18.9739
+82,Miejskie Przedszkole Nr 99,"ul. Płochy 6",6,Ligota – Panewniki,50.234722,18.961267
+107,Dom Dziecka Tęcza,"ul. Kaszubska 18",6,Ligota – Panewniki,50.224792,18.967447
+84,Szkoła Podstawowa nr 61 Specjalna,"ul. Kołobrzeska 8",6,Ligota – Panewniki,50.220592,18.971525
+69,Miejskie Przedszkole Nr 80,"ul. Panewnicka 367",6,Ligota – Panewniki,50.228233,18.933847
+35,Miejski Dom Kultury Ligota,"ul. Franciszkańska 33",6,Ligota – Panewniki,50.2281,18.972958
+105,Szkoła Podstawowa nr 34,"ul. Zielonogórska 3",6,Ligota – Panewniki,50.22461,18.976276
+140,Szkoła Podstawowa Nr 9,"ul. Panewnicka 172",6,Ligota – Panewniki,50.230684,18.948482
+127,Miejskie Przedszkole Nr 40,"ul. Śląska 34A",6,Ligota – Panewniki,50.22063,18.961985
+930,Schronisko dla bezdomnych zwierząt,"ul. Milowicka 1B",14,Dąbrówka Mała,50.281162,19.072105
+62,Katowickie Centrum Edukacji Zawodowej,"ul. Techników 11",14,Dąbrówka Mała,50.273834,19.06209
+45,Miejskie Przedszkole nr 38,"ul. Hallera 72",14,Dąbrówka Mała,50.276604000000006,19.071354
+940,Oddział Żłobka Miejskiego ul. Grzegorzka,"ul. Grzegorzka 2",14,Dąbrówka Mała,50.277126,19.065918
+28,Szkoła Podstawowa nr 8,"ul. Hetmańska 8",2,Załęska Hałda – Brynów Część Zachodnia,50.233486,18.977175
+104,Miejskie Przedszkole Nr 51,"ul. Rolna 41",2,Załęska Hałda – Brynów Część Zachodnia,50.23114,18.987324
+70,Szkoła Podstawowa nr 11,"ul. Nasypowa 16",2,Załęska Hałda – Brynów Część Zachodnia,50.228745,18.990461
+935,Zespół Szkół Technicznych i Ogólnokształcących nr 2,"ul. Mikołowska 131",2,Załęska Hałda – Brynów Część Zachodnia,50.24467,18.995974
+134,Miejskie Przedszkole Nr 88,"ul. Grzyśki 2",2,Załęska Hałda – Brynów Część Zachodnia,50.23103,18.976793
+43,Miejskie Przedszkole nr 14,"ul. Wyszyńskiego 16a",12,Koszutka,50.272808,19.02353
+37,Miejskie Przedszkole nr 20,"ul. Ordona 11",12,Koszutka,50.268124,19.031334
+81,Przychodnia nr 13,"ul. Ordona 3",12,Koszutka,50.26909,19.027601
+36,Poradnia Psychologiczno-Pedagogiczna Nr 5,"ul. Okrzei 4",12,Koszutka,50.269947,19.019236
+139,Szkoła Podstawowa Nr 36,"ul. Iłłakowiczówny 13",12,Koszutka,50.273143,19.019827
+97,Zespół Szkolno-Przedszkolny dla Dzieci Niesłyszących i Słabo Słyszących,"ul. Grażyńskiego 17",12,Koszutka,50.266987,19.017574
+58,Technikum nr 15,"ul. Tadeusza Boya-Żeleńskiego 96",21,Kostuchna,50.180874,19.001057
+31,Straż Pożarna i Biblioteka,"ul. Szarych Szeregów 62",21,Kostuchna,50.19271,18.995771000000005
+93,Miejskie Przedszkole Nr 41,"ul. Jacka Koraszewskiego 6",21,Kostuchna,50.183132,18.996593
+94,Miejskie Przedszkole Nr 42,"ul. Tadeusza Boya-Żeleńskiego 30",21,Kostuchna,50.18888,18.991455
+33,Miejskie Przedszkole Nr 60,"ul. Hallera 60",15,Szopienice – Burowiec,50.27273,19.073715
+100,MOPS,"ul. Krakowska 138",15,Szopienice – Burowiec,50.254738,19.091616
+39,Miejskie Przedszkole nr 56,"ul. Wiosny Ludów 17",15,Szopienice – Burowiec,50.26265000000001,19.097992
+64,Zespół Szkół Gastronomicznych,"ul. Rozdzieńska 25",15,Szopienice – Burowiec,50.263695,19.078045000000003
+41,Miejskie Przedszkole nr 66,"ul. Brynicy 50",15,Szopienice – Burowiec,50.269108,19.095942
+103,Miejski Dom Kultury Szopienice - Giszowiec,"ul. Hallera 28",15,Szopienice – Burowiec,50.270565,19.07762
+120,Szkoła Podstawowa Nr 44,"ul. Morawa 86",15,Szopienice – Burowiec,50.26481,19.10294
+117,"Ośrodek Sportowy ""Szopienice""","ul. 11 Listopada 16",15,Szopienice – Burowiec,50.26074,19.090233
+87,Szkoła Podstawowa Nr 45,"ul. Korczaka 11",15,Szopienice – Burowiec,50.269325,19.083923
+119,Szkoła Podstawowa nr 55 Specjalna,"ul. Bednorza 13",15,Szopienice – Burowiec,50.263107,19.09172
+91,Miejskie Przedszkole Nr 30,"ul. Gliwicka 157",7,Załęże,50.267483,18.99073
+88,Miejskie Przedszkole Nr 39,"ul. Gliwicka 212",7,Załęże,50.269688,18.976131
+66,Ośrodek Rekreacyjno-Wypoczynkowy Bugla,"ul. Żeliwna 26D",7,Załęże,50.25321,18.993744
+109,Miejskie Przedszkole nr 26,"ul. Zarębskiego 2",7,Załęże,50.263985,18.998125
+133,Szkoła Podstawowa Nr 22,"ul. Wolskiego 3",7,Załęże,50.266182,18.986528
+945,Straż Miejska,"ul. Żelazna 18",7,Załęże,50.26386300000001,19.005745
+123,Powiatowy Urząd Pracy,"ul. Pośpiecha 14",7,Załęże,50.26251,19.001417
+85,Miejskie Przedszkole Nr 64,"ul. Plac Pod Lipami 2",17,Giszowiec,50.22261,19.06589
+86,Szkoła Podstawowa Nr 51,"ul. Przyjazna 7A",17,Giszowiec,50.223434,19.070477
+56,Miejskie Przedszkole nr 91,"ul. Adama 33",17,Giszowiec,50.21758,19.073318
+7,Oddział Żłobka Miejskiego ul. Wojciecha 23a,"ul. Wojciecha 23A",17,Giszowiec,50.221443,19.061783
+95,Miejskie Przedszkole Nr 61,"ul. Karliczka 18",17,Giszowiec,50.226135,19.065887
+73,Szkoła Podstawowa Nr 19,"ul. Krzyżowa 12",11,Wełnowiec – Józefowiec,50.278427,19.007074
+80,Szkoła Podstawowa Nr 17,"ul. Józefowska 52",11,Wełnowiec – Józefowiec,50.28017,19.01552
+2,Oddział Żłobka Miejskiego ul. Bytomska 8a,"ul. Bytomska 8A",11,Wełnowiec – Józefowiec,50.285824,19.009811
+13,Ośrodek Sportowy Kolejarz,"ul. Alfreda 1",11,Wełnowiec – Józefowiec,50.287006,19.01375
+106,Szkoła Podstawowa Nr 17,"ul. Dekerta 1",11,Wełnowiec – Józefowiec,50.284657,19.016014
+128,Miejskie Przedszkole Nr 47,"ul. Słoneczna 60",11,Wełnowiec – Józefowiec,50.275723,19.012634
+71,Szkoła Podstawowa nr 65,"ul. Kukułek 2A",5,Brynów Część Wschodnia – Os. Zgrzebnioka,50.229458,19.005276
+79,Miejskie Przedszkole Nr 75,"ul. Drozdów 11C",5,Brynów Część Wschodnia – Os. Zgrzebnioka,50.23316,19.006874
+929,Dom Dziecka Zakątek,"ul. Brynowska 70A",5,Brynów Część Wschodnia – Os. Zgrzebnioka,50.23314,18.99694
+68,Miejskie Przedszkole nr 92,"ul. Kormoranów 22",5,Brynów Część Wschodnia – Os. Zgrzebnioka,50.23789,19.00815
+34,Miejski Dom Kultury Południe,"ul. Sołtysia 25",22,Podlesie,50.18012,18.976181
+75,Miejskie Przedszkole Nr 71,"ul. Michałowskiego 3",22,Podlesie,50.177677,18.968178
+89,Miejskie Przedszkole Nr 57,"ul. Piastów 13",9,Osiedle Tysiąclecia,50.272602,18.987013
+115,ZSO3 - Gimnazjum 8 + IXLO,"ul. Bolesława Chrobrego 4",9,Osiedle Tysiąclecia,50.279984000000006,18.972153
+118,Miejskie Przedszkole Nr 25,"ul. Mieszka I 13",9,Osiedle Tysiąclecia,50.27475,18.975105
+113,Miejskie Przedszkole Nr 90,"ul. Bolesława Chrobrego 39",9,Osiedle Tysiąclecia,50.28207,18.974485
+129,Miejskie Przedszkole Nr 34,"ul. Tysiąclecia 84A",9,Osiedle Tysiąclecia,50.280014,18.964596
+72,Szkoła Podstawowa Nr 66,"ul. aleja Bolesława Krzywoustego 7",9,Osiedle Tysiąclecia,50.27481,18.981928
+32,Miejskie Przedszkole nr 95,"ul. Piaskowa 1",3,Zawodzie,50.25963,19.049824
+78,Zespół Szkolno-Przedszkolny nr 6,"ul. Marcinkowskiego 17",3,Zawodzie,50.262463,19.058872
+114,"Ośrodek Sportowy ""Słowian""","ul. 1 Maja 99",3,Zawodzie,50.25959,19.056011
+101,Miejskie Przedszkole Nr 67,"ul. aleja Roździeńskiego 88",3,Zawodzie,50.26145,19.037395
+74,Szkoła Podstawowa Nr 27,"ul. Łętowskiego 18",19,Piotrowice – Ochojec,50.205723,18.986748
+122,Miejskie Przedszkole Nr 78,"ul. Radockiego 62",19,Piotrowice – Ochojec,50.20668,18.988396
+111,Zespół Szkolno-Przedszkolny Nr 2,"ul. Sobańskiego 86",19,Piotrowice – Ochojec,50.207893000000006,18.963531
+27,Miejskie Przedszkole Nr 4,"ul. Jankego 65",19,Piotrowice – Ochojec,50.214043000000004,18.990131
+63,Miejskie Przedszkole nr 46,"ul. Jankego 111",19,Piotrowice – Ochojec,50.211124,18.984251
+137,Zespół Szkół Poligraficzno - Mechanicznych - szkoła,"ul. Armii Krajowej 84",19,Piotrowice – Ochojec,50.20921,18.97383
+937,"Dom Pomocy Społecznej ""Zacisze""","ul. Traktorzystów 42",19,Piotrowice – Ochojec,50.217736,18.966635
+61,Zespół Szkół Technicznych i Ogólnokształcących nr 3 im. E. Abramowskiego,"ul. Harcerzy Września 1939 2",19,Piotrowice – Ochojec,50.21221,18.97508
+141,Miejskie Przedszkole Nr 81,"ul. Kostki-Napierskiego 9",19,Piotrowice – Ochojec,50.205266,18.973171
+932,Urząd Miasta Katowice,"ul. Francuska 70",4,Os. Paderewskiego – Muchowiec,50.245403,19.0276
+130,Oddział Żłobka Miejskiego - Szeptyckiego 1,"ul. Szeptyckiego 1",4,Os. Paderewskiego – Muchowiec,50.25003,19.036142
+38,Miejskie Przedszkole nr 87,"ul. Graniczna 44",4,Os. Paderewskiego – Muchowiec,50.247375,19.03444
+933,Kemping 215,"ul. Trzech Stawów 23",4,Os. Paderewskiego – Muchowiec,50.24356,19.047333
+59,Zakład Zieleni Miejskie - Budynek Leśniczanka,"ul. Francuska 180",4,Os. Paderewskiego – Muchowiec,50.232937,19.029295
+121,"Poczta, Straż Miejska","ul. Mruczka 5",18,Murcki,50.19822700000001,19.038568
+92,Szkoła Podstawowa Nr 48,"ul. Bielska 14",18,Murcki,50.19924,19.045400000000004
+60,Zespół Szkół Nr 2,"ul. Goetla 2",18,Murcki,50.202538,19.043344
+116,Miejskie Przedszkole Nr 72,"ul. Bielska 1",18,Murcki,50.19236,19.041485
+42,Miejskie Przedszkole nr 32,"ul. Szopienicka 29",16,Janów – Nikiszowiec,50.237103,19.073261
+135,Miejskie Przedszkole Nr 62,"ul. Oswobodzenia 61",16,Janów – Nikiszowiec,50.24612,19.091906
+131,Szkoła Podstawowa nr 6 Specjalna,"ul. Zamkowa 2A",16,Janów – Nikiszowiec,50.243374,19.085268
+12,Zespół Szkół Zawodowych nr 3,"ul. Szopienicka 66",16,Janów – Nikiszowiec,50.252377,19.084644
+125,Szkoła Podstawowa Nr 53,"ul. plac Wyzwolenia 18",16,Janów – Nikiszowiec,50.243153,19.0837
+126,Szkoła Podstawowa Nr 53,"ul. Szopienicka 58A",16,Janów – Nikiszowiec,50.24447,19.080748
+108,Szkoła Podstawowa nr 39 Specjalna,"ul. Ścigały 9",13,Bogucice,50.265198,19.039125
+44,Miejskie Przedszkole nr 22,"ul. Kopalniana 4D",13,Bogucice,50.26354,19.04095
+55,Miejska Biblioteka Publiczna - filia nr 16,"ul. Wajdy 21",13,Bogucice,50.271286,19.035568
+40,Miejskie Przedszkole nr 97,"ul. Wiślana 9",13,Bogucice,50.267525,19.046894000000005
+112,Zespół Szkolno-Przedszkolny nr 4,"ul. Wróblewskiego 42",13,Bogucice,50.26799,19.042020000000004
+77,Miejskie Przedszkole Nr 85,"ul. Kwiatkowskiego 20",8,Osiedle Witosa,50.26164,18.967714
+132,Miejskie Przedszkole Nr 13,"ul. Witosa 16A",8,Osiedle Witosa,50.25812,18.96962
+65,XV Liceum Ogólnokształcące,"ul. Obroki 87",8,Osiedle Witosa,50.266644,18.965406
+939,Miejski Dom Kultury Południe,"ul. Stellera 4",20,Zarzecze,50.18484000000001,18.951904
+136,Miejskie Przedszkole Nr 23,"ul. Dębowa 3",10,Dąb,50.27175,18.997177
+110,Miejskie Przedszkole Nr 27,"ul. Ściegiennego 27",10,Dąb,50.27318,19.009117
+96,Zespół Szkolno-Przedszkolny nr 1,"ul. Sportowa 29",10,Dąb,50.274117,18.99769

@@ -9,7 +9,7 @@ You can the tutorial videos by clicking on the links below.
 04 - [Random walker op](https://youtu.be/tib3dAo6ji8) - check the folder for images of the output\
 05 - [Array ops](https://youtu.be/cpjlm9tjgGo)\
 10 - [Custom shader ops](https://youtu.be/Zfhn8xSM0SE)\
-11 - tba.
+11 - Data visualization tutorial 03 - https://youtu.be/mJP5UcN5isg
 
 
 This repository contains all of the code examples that are used in the coding with cables video tutorials on [youtube](https://www.youtube.com/watch?v=vJ47_rYdezU&list=PLYimpE2xWgBvKQg65p9q5sa2jJaHGO7Ka&index=2&t=0s)
